@@ -1,3 +1,4 @@
+//Calculate Area of rectangle and square
 import java.util.*;
 class Calculate {
 	//22AD1017 DRISHYA TOMAR B3
